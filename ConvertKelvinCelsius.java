@@ -4,12 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/*
- * This basic java example source code
- * reads temperature in Kelvin from console input
- * Java Program to convert Kelvin to Degree Celsius
- */
-
 public class ConvertKelvinCelsius {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
